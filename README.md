@@ -1,4 +1,5 @@
 📘 EBHAM Network Project
+
 ●	Overview
 This project documents the complete design, configuration, and security implementation of a network topology built during NTI training. The work focuses on subnetting, routing (OSPF), DHCP, ACLs, AAA authentication, firewall policies, NTP/Syslog integration, and Layer 2 security. The project demonstrates both fundamental networking principles and advanced security practices, ensuring robust connectivity and protection across devices.
 ________________________________________
